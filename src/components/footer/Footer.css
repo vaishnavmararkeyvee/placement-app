@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+   
+   }
+   .footer{
+       text-align: center;
+    max-width: 100%;
+    background-color:rgb(156, 149, 149);
+    color: white;
+    height:25em;
+    font-size: large;
+    margin-top: 25%;
+    bottom: 0px;
+    padding: 5px;
+  }
+  .container2{
+  
+     
+    font-size: large;
+    padding: 10px;
+    display: flex;
+    bottom: 0px;
+  
+  }
+  .fa:hover{
+    opacity: 0.7;
+  }
+   .fa-facebook{
+    color: white;
+  }
+  .container2 .fa-youtube{
+    color: white;
+  }
+  .container2 .fa-instagram{
+    color: white;
+  }
+  .container2 .fa-twitter{
+    color: white;
+  }
+  
+  .container3{
+    text-align: center;
+    margin-top:5%;
+  }
+  /* .footer {
+     background-color: rgb(104, 5, 170); 
+    width: 100%;
+    margin-bottom:0px;
+     bottom: 0; 
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: center;
+    
+   }   */

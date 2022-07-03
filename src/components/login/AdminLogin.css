@@ -1,0 +1,31 @@
+.error1{
+    color:red;
+} 
+
+.main1{
+    background-color: cadetblue;
+    padding-left:50px;
+    border-radius: 15px;
+    border:1px solid black;
+    height:400px;
+    width:350px;
+    margin-left: 35%;
+    margin-top: 100px;
+}
+
+.label1{
+    text-align: center;
+    /* margin-left: 100px; */
+    color:rgb(230, 240, 240);
+    font-size: 30px;
+}
+.field1{
+    padding:8px;
+    width:80%;
+}
+.button1{
+    /* margin-left: 75px; */
+    width:80%;
+    padding:10px;
+    background-color: rgb(12, 139, 12);
+}

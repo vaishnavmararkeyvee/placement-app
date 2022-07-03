@@ -1,0 +1,71 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.homeimage {
+  margin-right: 0px;
+  width: 100%;
+  margin-top: -6%;
+  height: 100vh;
+}
+.text-on-image {
+  margin: 10px;
+  margin-top: 7%;
+  color: rgb(255, 255, 255);
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: xx-large;
+}
+.header {
+  margin-top: 1%;
+}
+.para {
+  margin-top: 8%;
+  margin-left: 2px;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: large;
+  color: white;
+}
+
+.title1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(47, 67, 247);
+  position: relative;
+  margin-top: -34%;
+}
+.title2 {
+  font-weight: bold;
+  color: rgb(231, 28, 28);
+  position: relative;
+}
+.heading2 {
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 80px;
+  margin-top: 20%;
+  text-align: center;
+  color: black;
+}
+.courseimg {
+  margin-top: 10%;
+  height: 250px;
+  width: 350px;
+}
+.coursehead {
+  font-size: 20px;
+  text-align: center;
+}
+.coursepara {
+  color: black;
+  text-align: center;
+}
+.bttn {
+  margin-top: -10px;
+  margin-bottom: 20px;
+  align-items: center;
+  background-color: dodgerblue;
+  padding: 5px;
+  color: rgb(36, 82, 6);
+  margin-left: 590px;
+}

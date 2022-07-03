@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .backgorund {
+    width: 500%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    filter: blur(30px);
+    -webkit-filter: blur(30px);
+  }
+  .container {
+    position: absolute;
+    margin: 20px;
+    max-width: 300px;
+    max-height: 700px;
+    padding: 16px;
+    background-color: rgb(60, 94, 119);
+    opacity: 0.8;
+    border-radius: 10px;
+  }
+  
+  .loglab label[for="email"],
+  .loglab label[for="psw"] {
+    margin-top: 60px;
+    text-align: left;
+  }
+  
+  /* Full-width input fields */
+  .loginp input[type="text"],
+  .loginp input[type="password"] {
+    width: 90%;
+    padding: 15px;
+    margin: 20px 0 22px 0px;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  .loginp input[type="email"]:focus,
+  .loginp input[type="password"]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Set a style for the submit button */
+  .btn1 {
+    background-color: rgb(58, 116, 58);
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .btn1:hover {
+    opacity: 1;
+  }
+  
+  .form {
+    position: absolute;
+    width: 300px;
+    top: 30%;
+    left: 40%;
+    background: none;
+  }
+  
+  .login_btn {
+    position: absolute;
+    top: 10%;
+    left: 60%;
+  }
+  

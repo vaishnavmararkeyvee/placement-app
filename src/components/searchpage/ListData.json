@@ -1,0 +1,10 @@
+[
+    {"id":"1","name":"Oshina", "qualification":"B.Tech", "district":"kollam", "state":"kerala", "passout":2018,"status":"Student","course":"Full Stack Development(MERN)","mark":66},
+    {"id":"2","name":"Job P A", "qualification":"diploma", "district":"palakkad", "state":"kerala", "passout":2021,"status":"Student","course":"MERN Stack Development(MERN)","mark":56},
+    {"id":"3","name":"Sandeep", "qualification":"B.Tech", "district":"trivandrum", "state":"kerala", "passout":2015,"status":"Student","course":"Digital Marketing","mark":99},
+    {"id":"4","name":"Devika", "qualification":"MCA", "district":"Pathanamthitta", "state":"Kerala", "passout":2014,"status":"Employee","course":"Digital Marketing","mark":65},
+    {"id":"5","name":"DINESH", "qualification":"MSc", "district":"THRISSUR", "state":"KERALA", "passout":2008,"status":"Employee","course":"Full Stack Development(MEAN)","mark":54},
+    {"id":"6","name":"Sajin J", "qualification":"B.Tech", "district":"Palakkadu", "state":"kerala", "passout":2015,"status":"Student","course":"Digital Marketing","mark":75},
+    {"id":"7","name":"Priyanka", "qualification":"B.Tech", "district":"Trivandrum", "state":"kerala", "passout":2015,"status":"Student","course":"Full Stack Development(MERN)"},
+    {"id":"8","name":"Sreeji", "qualification":"B.Tech", "district":"Ernakulam", "state":"kerala", "passout":2016,"status":"Employee","course":"Full Stack Development(MERN)"}
+]

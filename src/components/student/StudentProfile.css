@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.studimg1{
+    width: 100%;
+}
+.heading1{
+    top: -30%;
+    left: 20%;
+    position: absolute;
+    padding: 4em;
+    /* background: url('../../assets/robot.jpg'); */
+    background-size: cover;
+    font-size: 2em;
+    
+}
+#box{
+    margin-left: 10%;
+    text-align: center;
+}
+
+.profile{
+    padding: 2em;
+}
+
+#contact{
+    text-align: left;
+    padding: 2em;
+    background-color: rgb(195, 134, 223);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 1em;
+}
+#item1{
+    background-image: linear-gradient( to left, indigo, violet);
+    padding: 2em;
+}
+#GI{
+    text-align: left;
+    font-size: 3em;
+}
+#update{
+    margin-top: 1em;
+    font-size: 1em;
+    font-weight: bold;
+    padding: .5em;
+    float: right;
+    
+}
+#update a{
+    text-decoration: none;
+}
+#update:hover{
+    background-color: rgb(238, 160, 238);
+    color: rgb(58, 42, 24);
+}
+hr{
+    margin-top: .5em;
+    width:100%;
+    text-align:left;
+    height:2px;border-width:0;color:gray;background-color:gray;
+}
+#address{
+    font-size: 1.5em;
+    font-weight: 500;
+}
+#table{
+    margin-top: 1em;
+    color: rgb(29, 16, 16);
+    background-color:  rgba(124, 120, 120, 0.7);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+#content{
+    font-weight: bold;
+    padding: 2em;
+    display: grid;
+    max-width: 960px;
+    margin:0 auto;
+    grid-template-columns: 33.3% 20% 46.7%;
+    
+}
+#content div{
+    font-size: 1em;
+    color: black;
+   
+}
+#left{
+    text-align: left;
+}

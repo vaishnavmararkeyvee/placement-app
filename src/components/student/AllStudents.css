@@ -1,0 +1,38 @@
+.image{
+    height: 100px;
+    border-radius: 50px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.empimage{
+    width: 100%;
+    height: 65vh;
+}
+.alldetails{
+    margin-top: -8%;
+    display: flex;
+    padding: 5%;
+}
+.details{
+    margin-left: 1%;
+    margin-top: 10.5%;
+    padding: 10px;
+}
+.button{
+    margin-left: 40%;
+    margin-top: -14%;
+    padding: 10px;
+}
+.showdetails{
+    border-radius: 10px;
+    padding: 2px;
+   margin-left: 16%;
+    background-color: rgb(18, 223, 18);
+}
+.delete{
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 2px;
+    margin-top: 15px;
+    background-color: red;
+}
